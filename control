@@ -1,0 +1,8 @@
+Package: a0.goodfeelings.chamstester
+Name: Unity Chams Tool
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Unity Chams Tool
+Maintainer: GoodFeelings
+Author: AlexZero
