@@ -2,7 +2,9 @@
 
 This project implements a high-performance, dynamic Shader Chams system for Unity games on iOS. It uses IL2CPP reflection to find game objects and apply built-in game shaders in real-time.
 
-<img width="1080" height="701" alt="preview" src="https://github.com/user-attachments/assets/7f8b2e68-4c45-48f6-a3eb-d8a3a04805f9" />
+
+<img width="1450" height="775" alt="Zrzut ekranu 2026-02-7 o 12 13 46" src="https://github.com/user-attachments/assets/22034498-b6f0-419b-a562-73778e40dc72" />
+
 
 ## Features
 
