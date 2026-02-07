@@ -1,7 +1,7 @@
 # IOS-UnityChams: Advanced Shader Chams
 
 This project implements a high-performance, dynamic Shader Chams system for Unity games on iOS. It uses IL2CPP reflection to find game objects and apply built-in game shaders in real-time.
-
+No Jailbreak \ No JiT 
 
 <img width="1450" height="775" alt="Zrzut ekranu 2026-02-7 o 12 13 46" src="https://github.com/user-attachments/assets/22034498-b6f0-419b-a562-73778e40dc72" />
 
